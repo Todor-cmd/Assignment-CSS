@@ -1,0 +1,19 @@
+div {
+    background-color: rgb(10, 238, 162);
+}
+
+h1 {
+    color: rgb(200,0,0);
+}
+
+h2 {
+    color: antiquewhite;
+}
+
+h3 {
+    color: #022;
+}
+
+h4 {
+    color: hsl(3, 30%, 70%);
+}
